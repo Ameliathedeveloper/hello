@@ -1,0 +1,2 @@
+// nlike unit tests and component tests, which focus on isolated parts of the system, integration tests validate the behavior of the system as a whole. 
+// They ensure that all components work together correctly and that the system meets its requirements when deployed in a real-world environment. Integration tests often involve testing the entire application or significant portions of it, including interactions with external systems, databases, and APIs.

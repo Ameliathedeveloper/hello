@@ -1,0 +1,1 @@
+//component tests validate the interactions and integration between multiple units or components within a module or subsystem
